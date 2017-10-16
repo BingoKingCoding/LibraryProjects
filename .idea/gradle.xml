@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/TimePickerDialog" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/libraryMapBaidu" />
+            <option value="$PROJECT_DIR$/libraryMapTencent" />
+            <option value="$PROJECT_DIR$/libraryPayAlipay" />
+            <option value="$PROJECT_DIR$/libraryQrcodeZxing" />
+            <option value="$PROJECT_DIR$/librarySocialUmeng" />
+            <option value="$PROJECT_DIR$/librarySpan" />
+            <option value="$PROJECT_DIR$/pickerview" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

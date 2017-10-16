@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\work\\workspace\\LibraryProjects\\pickerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\include_pickerview_topbar.xml",
+        "source": "D:\\work\\workspace\\LibraryProjects\\pickerview\\build\\intermediates\\bundles\\debug\\res\\layout\\include_pickerview_topbar.xml"
+    },
+    {
+        "merged": "D:\\work\\workspace\\LibraryProjects\\pickerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pickerview_time.xml",
+        "source": "D:\\work\\workspace\\LibraryProjects\\pickerview\\build\\intermediates\\bundles\\debug\\res\\layout\\pickerview_time.xml"
+    },
+    {
+        "merged": "D:\\work\\workspace\\LibraryProjects\\pickerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_basepickerview.xml",
+        "source": "D:\\work\\workspace\\LibraryProjects\\pickerview\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_basepickerview.xml"
+    },
+    {
+        "merged": "D:\\work\\workspace\\LibraryProjects\\pickerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pickerview_options.xml",
+        "source": "D:\\work\\workspace\\LibraryProjects\\pickerview\\build\\intermediates\\bundles\\debug\\res\\layout\\pickerview_options.xml"
+    }
+]

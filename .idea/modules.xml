@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LibraryProjects.iml" filepath="$PROJECT_DIR$/LibraryProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TimePickerDialog/TimePickerDialog.iml" filepath="$PROJECT_DIR$/TimePickerDialog/TimePickerDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryMapBaidu/libraryMapBaidu.iml" filepath="$PROJECT_DIR$/libraryMapBaidu/libraryMapBaidu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryMapTencent/libraryMapTencent.iml" filepath="$PROJECT_DIR$/libraryMapTencent/libraryMapTencent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryPayAlipay/libraryPayAlipay.iml" filepath="$PROJECT_DIR$/libraryPayAlipay/libraryPayAlipay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryQrcodeZxing/libraryQrcodeZxing.iml" filepath="$PROJECT_DIR$/libraryQrcodeZxing/libraryQrcodeZxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/librarySocialUmeng/librarySocialUmeng.iml" filepath="$PROJECT_DIR$/librarySocialUmeng/librarySocialUmeng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/librarySpan/librarySpan.iml" filepath="$PROJECT_DIR$/librarySpan/librarySpan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pickerview/pickerview.iml" filepath="$PROJECT_DIR$/pickerview/pickerview.iml" />
+    </modules>
+  </component>
+</project>

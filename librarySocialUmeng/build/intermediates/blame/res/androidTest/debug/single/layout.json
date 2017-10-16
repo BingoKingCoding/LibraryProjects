@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\work\\workspace\\LibraryProjects\\librarySocialUmeng\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\umeng_socialize_oauth_dialog.xml",
+        "source": "D:\\work\\workspace\\LibraryProjects\\librarySocialUmeng\\build\\intermediates\\bundles\\debug\\res\\layout\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "D:\\work\\workspace\\LibraryProjects\\librarySocialUmeng\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "D:\\work\\workspace\\LibraryProjects\\librarySocialUmeng\\build\\intermediates\\bundles\\debug\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\workspace\\LibraryProjects\\librarySocialUmeng\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\socialize_share_menu_item.xml",
+        "source": "D:\\work\\workspace\\LibraryProjects\\librarySocialUmeng\\build\\intermediates\\bundles\\debug\\res\\layout\\socialize_share_menu_item.xml"
+    },
+    {
+        "merged": "D:\\work\\workspace\\LibraryProjects\\librarySocialUmeng\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "D:\\work\\workspace\\LibraryProjects\\librarySocialUmeng\\build\\intermediates\\bundles\\debug\\res\\layout\\com_facebook_login_fragment.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\work\\workspace\\LibraryProjects\\libraryQrcodeZxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\work\\workspace\\LibraryProjects\\libraryQrcodeZxing\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\work\\workspace\\LibraryProjects\\libraryQrcodeZxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\qrcode_scan_line.png",
+        "source": "D:\\work\\workspace\\LibraryProjects\\libraryQrcodeZxing\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\qrcode_scan_line.png"
+    }
+]

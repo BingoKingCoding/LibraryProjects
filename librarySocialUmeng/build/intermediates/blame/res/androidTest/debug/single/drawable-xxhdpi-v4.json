@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\work\\workspace\\LibraryProjects\\librarySocialUmeng\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\com_facebook_close.png",
+        "source": "D:\\work\\workspace\\LibraryProjects\\librarySocialUmeng\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\com_facebook_close.png"
+    },
+    {
+        "merged": "D:\\work\\workspace\\LibraryProjects\\librarySocialUmeng\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\weibosdk_empty_failed.png",
+        "source": "D:\\work\\workspace\\LibraryProjects\\librarySocialUmeng\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\weibosdk_empty_failed.png"
+    },
+    {
+        "merged": "D:\\work\\workspace\\LibraryProjects\\librarySocialUmeng\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\umeng_socialize_facebook.png",
+        "source": "D:\\work\\workspace\\LibraryProjects\\librarySocialUmeng\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\umeng_socialize_facebook.png"
+    },
+    {
+        "merged": "D:\\work\\workspace\\LibraryProjects\\librarySocialUmeng\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_facebook.png",
+        "source": "D:\\work\\workspace\\LibraryProjects\\librarySocialUmeng\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_facebook.png"
+    },
+    {
+        "merged": "D:\\work\\workspace\\LibraryProjects\\librarySocialUmeng\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\umeng_socialize_fbmessage.png",
+        "source": "D:\\work\\workspace\\LibraryProjects\\librarySocialUmeng\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\umeng_socialize_fbmessage.png"
+    }
+]
